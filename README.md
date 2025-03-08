@@ -31,4 +31,4 @@ Built with Kotlin, Room Database, DataBinding, and RecyclerView for a seamless u
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/chinmoy09ine/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="chinmoy09ine" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chinmoy09/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="chinmoy09" height="30" width="40" /></a>
